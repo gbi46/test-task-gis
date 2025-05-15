@@ -4,10 +4,11 @@ __pycache__/
 .env*
 .idea/
 .pytest_cache
+.venv/
+.vscode/
 *.db
 *.log
 *.py[cod]
 *.sqlite3
-.vscode/
 poetry.lock
 Thumbs.db
